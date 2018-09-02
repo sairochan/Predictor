@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1533637702 source:f:\deadpool\precp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	<stdbool.h>
+	"functions.h"
+
+1533633669 f:\deadpool\precp\functions.h
+	<stdio.h>
+
+1533633457 source:f:\deadpool\precp\functions.c
+	"functions.h"
+	<stdio.h>
+
